@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.buffuwei.sidingnote.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.buffuwei.sidingnote.MyBundle
 
 class MyApplicationService {
 
